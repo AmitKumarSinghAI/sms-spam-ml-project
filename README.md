@@ -1,4 +1,4 @@
-# 📱 SMS Spam Detection
+### 📱 SMS Spam Detection
 
 A machine-learning project that classifies SMS messages as **Spam** or
 **Ham (Not Spam)**.
