@@ -12,7 +12,7 @@ accuracy.
 ## 📂 Dataset
 
 -   **target** --- spam or ham\
--   **text** --- SMS message content\
+-   **text** --- SMS message contents\
     Unused columns are removed.
 
 ## 🧹 Steps Performed
